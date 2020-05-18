@@ -22,3 +22,7 @@ Notable edge cases:
 112; The Storm: Iroh's story to the Lieutenant portrays dialouge amongst himself, Zuko, and Ozai. These lines are not counted.
 
 120; The Siege of the North- Part 2: Zuko directly addresses Aang's body while he is in the spirit world. I don't consider this dialouge, so I didn't count these lines.
+
+204; The Swamp: Aang tries to talk to the swamp vision of Toph. Since this isn't really Toph, I didn't count these lines.
+
+207; Zuko Alone: This episode famously features no important characters but Zuko, apart from flashbacks featuring himself, Azula, Mai, Ty Lee, and Ozai. I didn't want to put an empty document through the program so I just didn't make a file for this episode.
