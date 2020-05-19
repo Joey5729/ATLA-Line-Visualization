@@ -16,7 +16,7 @@ Lines spoken from a character not listed to one that is (and vice versa) are not
 
 Lines spoken during dream sequences/flashbacks/visions/episode recaps are not counted.
 
-Notable one-off cases:
+Notable one-off cases (major spoilers):
 
 107; Winter Solstice- Part 1- The Spirit World: Aang tries the talk to Katara when he's in the spirit world, but she can't hear him. The first line was counted, since he thought he was in conversation; subsequent lines were not.
 
@@ -31,3 +31,7 @@ Notable one-off cases:
 216; Appa's Lost Days: This entire episode might be a flashback. I decided to count the lines in this episode anyway. Sue me.
 
 219; The Guru: Katara addresses Azula as if she was Suki; I counted this as Katara speaking to Azula (and vice versa).
+
+307; The Runaway: I consider the two lines that open the episode are a flash-forward of sorts. I count them the second time they are said in the episode, not the first.
+
+309; Nightmares and Daydreams: Which of Aang's hallucinations are a dream and which are real isn't well defined. These are the scenes I decided were dreams, and therefor aren't counted: the pants nightmare, the math test nightmare, Ozai telling Aang he slept in, "Baby, you're my forever girl," and the UNO reverse card pants nightmare. I counted the lines spoken by and to Sokka, Katara, and Toph during the duel sequence because I think they were actually spoken.
