@@ -8,7 +8,7 @@ Avatar: The Last Airbender was released on US Netflix on May 15, 2020. This just
 I identified the following characters as important enough to be counted:
 
 Aang, Katara, Sokka, Toph, Zuko, Iroh, Suki, Azula, Ozai, Mai, and Ty Lee (Sorry to all the Boomy, Gran-Gran, and Sozin fans out there)
-All disguises/aliases (Painted Lady, Blind Bandit, Blue Spirit, Lee, Mushi, Wang Fire, etc) are counted as the person they really are
+All disguises/aliases (Painted Lady, Blind Bandit, Blue Spirit, Lee, Mushi, Wang Fire, Melon Lord, etc) are counted as the person they really are
 
 For the purposes of this project, I defined a line of dialouge as a block of speech spoken by one character to another, unbroken by: the interuption of the block by another character speaking (including the person the speaker is talking to or other characters that aren't a part of this project), the speaker switching the addresse of their speaking, a scene change, or the end of an episode.
 
@@ -35,3 +35,5 @@ Notable one-off cases (major spoilers):
 307; The Runaway: I consider the two lines that open the episode are a flash-forward of sorts. I count them the second time they are said in the episode, not the first.
 
 309; Nightmares and Daydreams: Which of Aang's hallucinations are a dream and which are real isn't well defined. These are the scenes I decided were dreams, and therefor aren't counted: the pants nightmare, the math test nightmare, Ozai telling Aang he slept in, "Baby, you're my forever girl," and the UNO reverse card pants nightmare. I counted the lines spoken by and to Sokka, Katara, and Toph during the duel sequence because I think they were actually spoken.
+
+317; The Ember Island Players: Lines spoken by/to the players don't count as lines spoken by/to the characters themselves.
