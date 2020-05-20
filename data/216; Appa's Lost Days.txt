@@ -1,0 +1,10 @@
+z,i
+i,z
+az,su
+su,az
+az,su
+ty,az
+su,az
+m,az
+az,su
+az,su
