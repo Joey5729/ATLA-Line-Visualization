@@ -1,7 +1,0 @@
-A S
-S A
-A S
-A K
-K A
-K S
-S K
