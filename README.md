@@ -1,5 +1,10 @@
 # ATLA-Line-Visualization
 
+Easy instructions for viewing the diagram:
+1) Navigate to https://raw.githubusercontent.com/Joey5729/ATLA-Line-Visualization/master/out.html
+2) Download the file as a .html (right click the page, save as, name it something.html)
+3) Open the file with a web browser
+
 Inspired by this Reddit post:
 https://www.reddit.com/r/dataisbeautiful/comments/g2f3ip/oc_most_popular_movie_genre_combinations
 
